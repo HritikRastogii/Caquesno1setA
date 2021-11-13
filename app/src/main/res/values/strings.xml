@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Caquesno1setA</string>
+    <string name="microsoft_teams">Microsoft Teams</string>
+    <string name="todo">TODO</string>
+    <string name="get_started_with_your_work_school_or_personal_microsoft_account">Get started with your work,school or personal Microsoft account.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_your_email_address">Enter Your Email address</string>
+    <string name="get_help_with_sign_in">Get help with sign in</string>
+    <string name="join_a_meeting">Join a meeting</string>
+    <string name="sign_up_for_free">Sign up for free</string>
+</resources>
